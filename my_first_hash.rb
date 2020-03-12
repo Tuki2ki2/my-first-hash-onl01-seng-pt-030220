@@ -16,7 +16,7 @@ def shipping_manifest
   "oil_paintings" => 3
   }
 
-  return my_hash
+  return the_manifest
 
 end
 
