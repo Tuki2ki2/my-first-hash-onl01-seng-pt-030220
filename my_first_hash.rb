@@ -16,7 +16,7 @@ def shipping_manifest
   "oil_paintings" => 3
   }
 
-  return the_manifest
+the_manifest
 
 end
 
