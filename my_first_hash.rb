@@ -1,8 +1,8 @@
 def my_hash
   # use the literal constructor to set the variable, my_hash, equal to a hash with key/value pairs of your choice.
 my_hash = {
-:whale_bone_corsets => 5
-:porcelain_vases => 2
+:whale_bone_corsets => 5,
+:porcelain_vases => 2,
 :oil_paintings => 3
 }
 
