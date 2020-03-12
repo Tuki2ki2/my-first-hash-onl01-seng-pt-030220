@@ -16,6 +16,7 @@ def shipping_manifest
   "oil_paintings" => 3
   }
 
+  my_hash
 
 end
 
